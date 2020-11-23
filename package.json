@@ -1,0 +1,23 @@
+{
+  "name": "budua",
+  "version": "1.0.0",
+  "description": "&lt;script>alert(\"when the student is ready, the teacher will appear)&lt;/script>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/panasoniclam/Budua.git"
+  },
+  "author": "nguyen ngoc lam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/panasoniclam/Budua/issues"
+  },
+  "homepage": "https://github.com/panasoniclam/Budua#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "pg": "^8.5.1"
+  }
+}
