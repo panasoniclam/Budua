@@ -11,3 +11,4 @@ là một platform thương mại điện tử Budua mong muống:
 
 #document
 Database https://app.diagrams.net/#Hpanasoniclam%2FBudua%2Fmain%2FUntitled%20Diagram.drawio
+https://app.diagrams.net/#Hpanasoniclam%2FBudua%2Fmain%2FSequenceDiagram.drawio
